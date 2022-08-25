@@ -1,1 +1,4 @@
 # CSE494
+  This course will introduce techniques and algorithms for creating data visualizations to represent complex data in an interpretable manner, based on principles and theory from graphic design, visual art, perceptual psychology, and cognitive science. It is meant to provide hands-on experience in visualization design, implementation, testing, and evaluation. Students will complete several visualization programming assignments and a programming project, and there will be several non-programming assignments testing conceptual and theoretical knowledge of visualization concepts. The course will be structured around teaching visualization fundamentals, design principles, tools, and techniques.
+
+  Familiarity with basic programming and statistics is preferred, though not required. Programming assignments and the course project will be completed using web languages: HTML, CSS, JavaScript, and D3 will be used as the visualization library.
